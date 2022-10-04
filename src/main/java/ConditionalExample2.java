@@ -1,0 +1,2 @@
+public class ConditionalExample2 {
+}
